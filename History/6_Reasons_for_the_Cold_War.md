@@ -326,9 +326,8 @@ Both Truman and Stalin were worried about how their rivals were thinking and, in
 - April 1949: USA, Britain, France and nine other western country joined together in the NATO
 - agreed that if any member was attacked, all members would come to its assistance
 
-
-[pdf1](./src/6_1.pdf)
-
+<embed type="application/pdf" src=".src/6_1.pdf" style="width:95%; height:90%">
+</embed>
 
 
 [History_-_Power_relations_Ch.2_Summary_Notes_-_Google_Docs.pdf](:/9c78974057234491adcf0fb26dbaafad)
