@@ -75,7 +75,6 @@ Def:
 
 ![river_regimes.png](.src/river_regimes.png)
 
-
 Def:
 
 - River regime - Variation of discharge throughout the year
@@ -159,8 +158,7 @@ def: laying down of material previously transported by the river. Happens when t
 
 ## Upper stream Landforms (mainly formed by erosion)
 
-![upper_streams.png](.src/upper_stream.png)
-
+![upper_stream.png](.src/upper_stream.png)
 - steep V-shaped valleys - river has cut down by vertical erosion
 - waterfalls - vertical erosion and falls back, soft rock and hard rock, makes plunge pool
 - gorges - made when waterfalls retreat
@@ -171,8 +169,7 @@ def: laying down of material previously transported by the river. Happens when t
 
 ## Lower Stream Landforms
 
-![lower_stream.png](.src/lower_stream.png))
-
+![lower_stream.png](.src/lower_stream.png)
 - River Velocity and discharge increase
 - Gentler gradient
 - Floor occupied by a flood plain
