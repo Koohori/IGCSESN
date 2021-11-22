@@ -325,9 +325,3 @@ Both Truman and Stalin were worried about how their rivals were thinking and, in
 - Stalin's threat to Berlin and the communist takeover in Czechoslovakia persuaded the Western powers to form a military alliance for protection
 - April 1949: USA, Britain, France and nine other western country joined together in the NATO
 - agreed that if any member was attacked, all members would come to its assistance
-
-<embed type="application/pdf" src=".src/6_1.pdf" style="width:95%; height:90%">
-</embed>
-
-
-[History_-_Power_relations_Ch.2_Summary_Notes_-_Google_Docs.pdf](:/9c78974057234491adcf0fb26dbaafad)
