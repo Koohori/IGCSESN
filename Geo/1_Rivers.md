@@ -283,3 +283,67 @@ In developed countries, water is delivered by standpipes in the streets.
 In villages, water from wells are often used untreated
 
 # Case Study
+
+## River Management Lessons from Spain:
+- Mediterranean climate means that Spain's annual rainfall is small
+- most of it falls in the winter half of the year
+- Tagus-Segura Project
+  - 286 km long aqueducts and canals completed in 1978 to carry water from two reservoirs in the upper Tagus valley to a large reservoir in Alicante Province
+  - Problems
+    - most of irrigation water has gone to agribusinesses rather than local people
+    - much of the water has been consumed, not by agriculture, but by the 'urban developments' and tourist resorts along coasts
+    - availability of transferred water has encourage a wasteful or extravagant use of it
+- Ebro Project
+  - even more ambitious river management plan proposed in 2001
+  - to divert and dam the longest river in Spain: Ebro
+  - project abandoned in 2004 due to:
+    - bad experience of the Tagus-Segura Project
+    - huge threat it posed to the Ebro Delta, an important agriculture area and wildlife wetland
+  - Spanish government decided to meet the growing water shortages by constructing coastal desalinization plants.
+
+## River Management Lessons from China
+- Three Gorges Project:
+  - started in 1997
+  - mainly to generate electricity and to control flooding
+  - middle of China and on longest river, Yangtze
+  - dam finished in 2009 and longest in the world
+  - 185 m high and almost 2km wide
+  - reservoir of water is nearly 600km long
+  - produces 10% of China's total electricity
+  - problems:
+    - one million people lost their homes and had to resettle to make way for the dam and reservoirs
+    - reservoir flooded some of the country's most fertile land for farmers
+    - water quality is reducing as huge amounts of human and industrial waste are trapped in the dam
+
+  - South-North Water Transport Project (SNWTP)
+    - most of China's population growth is concentrated on the North China plain
+    - this makes huge demand for water in the plains near Beijing and Tianjin
+    - SNWTP created to meet water demand in the North
+      - balance the water surplus in the south with the water deficit of the North
+    - problems:
+      - growing awareness of the 'cost' which are now thought to outweigh the benefits
+      - leveling off in a demand for water because population/economy has slowed down
+
+    | Costs | Benefits |
+    | --- | ---- |
+    | South is likely to suffer water shortages as it is exporting too much of its water to the North| North remains the powerhouse of Chinese economy|
+    | Large numbers of people have been displaced to make way for the transfer routes | Much-needed water is being supplied to important industries|
+    | Wildlife and ecosystems are badly distributed by the water transfer routs | More water for irrigation to help food production |
+    | Loss of water as a result of evaporation from the open canals used to transfer water | Health risks are reduced because more people have access to safe water |
+    |Very expensive project and a burden on tax payers | A showcase for Chinese engineering and technology |
+
+    - China has tried to reduce water demand by:
+      - reducing the amount of water lost through evaporation from inefficient irrigation systems and from the open canals that transfer water
+      - increasing the recycling of water by modern water treatment techniques
+      - tightening controls on water pollution so that water may be more easily re-used
+      - recharging groundwater stocks that have been greatly lowered by overuse
+      - increasing the price of water and so discouraging people and businesses from using it wastefully
+
+## Plans to Manage the Blue Nile, Etheopia:
+- shortage of resources in Ethiopia, especially water and energy
+- Grand Renaissance Dam started construction in 2011
+- generates 6000 megawatts of electricity and provides water for irrigation
+- problems:
+  - Sudan and Egypt, both located downstream feared that their water resrouces would be cut off and Ethiopia would 'steal' too much of Nile's river
+
+  
