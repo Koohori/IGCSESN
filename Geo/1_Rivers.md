@@ -300,6 +300,7 @@ In villages, water from wells are often used untreated
     - bad experience of the Tagus-Segura Project
     - huge threat it posed to the Ebro Delta, an important agriculture area and wildlife wetland
   - Spanish government decided to meet the growing water shortages by constructing coastal desalinization plants.
+![spain_dam.png](.src/spain_dam.png)
 
 ## River Management Lessons from China
 - Three Gorges Project:
@@ -339,11 +340,13 @@ In villages, water from wells are often used untreated
       - recharging groundwater stocks that have been greatly lowered by overuse
       - increasing the price of water and so discouraging people and businesses from using it wastefully
 
-## Plans to Manage the Blue Nile, Etheopia:
+![three_gorges](.src/three_gorges_dam.png)
+
+## Plans to Manage the Blue Nile, Ethiopia:
 - shortage of resources in Ethiopia, especially water and energy
 - Grand Renaissance Dam started construction in 2011
 - generates 6000 megawatts of electricity and provides water for irrigation
 - problems:
-  - Sudan and Egypt, both located downstream feared that their water resrouces would be cut off and Ethiopia would 'steal' too much of Nile's river
+  - Sudan and Egypt, both located downstream feared that their water resourceful would be cut off and Ethiopia would 'steal' too much of Nile's river
 
-  
+![grand_renaissance_dam](.src/grand_dam.png)
