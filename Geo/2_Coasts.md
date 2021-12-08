@@ -201,6 +201,20 @@ protection against wave erosion and sea-level rises
 ### Coastal Sand Dunes
 least threatened
 
+# Case Study
+## Management of Mangroves
+- Bangladesh - low lying country
+	- long coastline vulnerable to tropical storms and storm surges
+- part of Coastal Zone Policy:
+	- taking advantage of mangroves trapping sediments and stabilizing shores
+	- deliberately planting mangroves on delta sediments
+	- gained 120,000 hectares of new land in the Bay of Bengal
+	- vast tidal mangrove woodland known as Sundarbans
+	- creates new land and protects Bangladesh from coastal Flooding
+	- also permitting local people to make use of its resources
+
+	![.mangroves](.src/mangrove.png)
+
 # 2.7 Coastal Conflicts
 ## Coastal System
 ### Inputs:
@@ -282,3 +296,59 @@ Some coasts are retreating at the rate as high as 10 meters per year
 ### Abandoning existing coastal defenses and allowing low-lying coastal areas to flood and develop into salt marshes
 
 # Case Studies
+## Coastal Management in the Gambia
+- coastline to the south of estuary has been suffering from coastal erosion for a long time
+	- rate of erosion has increased recently (last three decades)
+	- attributed to the rising sea levels
+- Gambia is being threatened:
+	- most of its capital city, Banjul, located at the mouth of the Gambia river
+	- much tourist infrastructure located close to the coast south of the river
+		- this is main tourist area
+		- for a country heavily dependent on tourism, coastal erosion is becoming a disaster
+- for a growing country like Gambia:
+	- coastal management is a luxury
+	- it can only do little to protect its costs
+
+![gambia](.src/gambia.png)
+
+## Coastal Management in Sri Lanka
+- island state with a 1560km long coastline
+- nearly half of population live in coastal zone
+- problems:
+	- pollution on insure waters
+		- caused by discharging of untreated sewage from coastal towns and cities and from tourist developments
+	- reclamation of mangroves and coastal wetlands to create land for tourism, housing and agriculture
+	- loss of degradation of coral reefs as result of pollution, the 'mining' of coral and sand for building materials, and unsustainable fishing and recreational diving
+	- damaging impacts of aquaculture of the marine environment
+- physical challenges:
+	- serious coastal erosion along the south-west coast where many people live and where much of the country's economic wealth is concentrated
+	- exposure of much of the coastline to tsunamis and storm surges
+		- result of global warming
+		- 1.5 million have become homeless due to tsunami in 2004-5
+
+- Sri Lanka's Coastal Management Plan (CZMP)
+	- improve quality of coastal environment
+	- promote economic development based on coastal resources
+	- recognizes it would be physically and economically impossible to completely defend the coast
+	- emphasis is on improving early warning systems and educating the public
+		- promoting awareness of the hazard
+		- practicing emergency routes
+		- building and manning watch towers
+		- identifying the areas most exposed to tsunami's threat
+w
+![sri-lanka1](.src/sri_lanka1.png)
+![sri-lanka2](.src/sri_lanka2.png)
+
+## Coastal Management in the UK
+- three different types of action:
+	- do nothing
+		- along stretches with few if any risks
+	- hold the line
+		- hard engineering needed to continue to protect stretches of coast
+	- managed retreat
+		- three low lying areas recognized as being threatened by flooding
+- East coast is sinking at 6mm per year
+
+![uk_erosion](.src/uk_erosion.png)
+![island_erosion](.src/island_erosion.png)
+![abbotts](.src/abbotts.png)

@@ -145,6 +145,71 @@ Volcanic eruption secondary impacts:
 - fires started by lava and pyroclastic flows
 - psychological trauma
 
+
+# Case Study:
+## Earthquakes in Nepal (2015)
+- April 25, 2015:
+  - massive earthquake (magnitude 7.8 Richter Scale) devastated much of the small Himalayan country of Nepal
+  - caused over 8500 deaths and nearly 17000 people injured
+  - nearly 3 million people displaced
+  - primary impacts:
+    - thousands of families instantly lost access to household energy for cooking, lightning, and heating
+      - without power to charge phones, people could not contact family members or help
+      - road network providing only means for access were destroyed
+        - made it impossible for emergency services to reach many communities
+      - small airport didn't allow for large scale help from outside
+- three weeks later:
+  - another major earthquake occurred
+  - aftershock caused mass panic because people were living in the open after the April earthquake
+
+![nepal](.src/nepal.png)
+
+## Earthquakes in Central Italy
+| Date | Magnitude | Epicenter | Location | Focus Depth |
+| -- | -- | -- | -- | --- |
+| 24 August | 6.2 | Amatrice | 4km|
+|26 October | 6.1 | Visso | 8km|
+| 30 October | 6.6 | Norcia | 4.5km|
+| 3 November | 4.8 | Pieve Torina | 8km|
+
+- August earthquake:
+  - killed 300 people
+  - 360 injured
+- last three earthquakes killed no one
+  - because Italy was alerted
+- these events indicate that:
+    - even developed countries cannot make themselves completely quake-proof
+    - damage and destruction caused by earthquake depends not only on its magnitude and its focus depth
+![italy](.src/italy.png)
+
+# Mount Merapi Eruption
+- Mount Merapi is located on densely populated island of Java, Indonesia
+- one of the most active and dangerous volcanoes in the world
+- main phase of eruption took place between 26 October and 12 November, 2010.
+- impacts:
+  - volcanic bombs - landed 11km away
+  - ash plumes blasted up to 5 km into the sky with ash landing up to 30km away
+  - pyroclastic flows spreading 3 km down the volcano
+  - sulfur dioxide, dangerous gas, blown into as far south as Australia
+  - lahars, ash, rock and lava deposited on the volcano was washed down into rainfall
+- secondary impacts:
+  - emergency shelters could not be located closer than 15 kilometers of the volcano due to ash
+  - danger area extended 20 km from the volcano
+  - nearly 300,000 people have to leave their homes
+  - flights canceled
+
+![merapi](.src/merapi.png)
+
+## Mount Ontake Eruption (2014)
+- 27 September 2014:
+  - Mount Ontake, active volcano and second highest volcano in japan, suddenly erupted without a warning
+  - around 50 hikers killed by toxic gasses and heat of a large, fast moving pyroclastic flow
+  - nearly 100 people were injured
+
+
+
+![ontake](.src/ontake.png)
+
 # 3.6 Reasons for living in high risk areas
 
 # People live in hazardous areas because of:
