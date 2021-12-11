@@ -1,6 +1,14 @@
 # IGCSESN
-summary_notes_for_igcse
+## summary notes for IGCSE, Mainly:
+	- History
+	- Geography
+	- Physics
+	- Chemistry
+	- Physics
+	- English
+	- Japanese L&L
+## Developed by Moto, Haruya, Kiichiro
+# Download by GitClone or Download all files as .zip
 
-# All LOs List Files
-## Uploaded by Haruya, Kiichi, and Moto.
-## Git clone to download all files. You can also develop on dev branch
+# Link to textbooks
+![textbooks](https://kisted-my.sharepoint.com/:f:/g/personal/ko4462_email_kist_ed_jp/EmDpgTKztQRHr7yOIda9GLoBSOXelTeSe4IE0J7FRwnyJQ?e=6udG51)

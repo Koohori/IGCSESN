@@ -245,6 +245,59 @@ Short term:
 
 # Case Study
 
+## Hurricane Katrina:
+- formed over the Bahamas in Aug. 2005
+- moved westwards across tip of Florida as a Category 1 Hurricane
+- reached Category 5 at sea on 25 Aug.
+- cyclone doubled in size and wind speeds were over 300 kph
+- eventually, it swung north-eastwards, weakened to Category 3 and made its landfall at New Orleans at 6 A.M on 29 Aug.
+
+- one of the deadliest and costliest hurricanes in history
+  - nearly 2000 people were killed
+  - thousands injured
+  - damage estimated at 84 Billion Dollars
+  - displaced 1 million people
+- destroyed many buildings in downtown New Orleans, including hotels and the roof of Superdome
+- produced storm storm surge with 8m waves
+- 80 percent of city flooded up to 6m depth
+
+Critical problems:
+- levee and coastal flood protection walls were aging and neglected
+- slow emergency response by the authorities
+- relief efforts of a large number of organizations were poorly coordinated
+- food and water shortages were evidence that emergency aid was poorly organized
+- despite large scale evacuations, many were left behind
+- much looting of abandoned properties
+- some of the money raised by public appeals around the world 'disappeared' so could not be used to good use
+
+![katrina1](.src/katrina1.png)
+![katrina2](.src/katrina2.png)
+![katrina3](.src/katrina3.png)
+
+## Typhoon Haiyan Hits the Philippines (2013)
+- November 8 2013, Category 5 typhoon struck the Philippines
+- Winds over 300kph were recorded
+- Approximately 800,000 people were evacuated
+- 1.9 million were left homeless
+- more than 6000 people killed
+- Delivery of emergency aid was difficult due to damaged airport and roads.
+- serious shortages of food due to crops wiped out
+- 3 million people were receiving food assistance including rice, high-energy biscuits and emergency items
+- Management of hazard has now moved on to:
+  - rebuilt structures will be upgraded and made more hazard proof
+  - 'no build' zones were made along stretches of coasts that were hit by storm surge
+  - new storm surge warning system
+  - mangroves replanted to help natural protection
+- Given that Philippines is not a rich or technologically advanced country, the management of Typhoon Haiyan, its immediate aftermath and the subsequent recovery, reflects well on the country:
+  - it has learned useful lessons from the typhoons that hit them every year
+  - they implemented simple but effective forms of hazard preparation
+    - including reliable warning systems and holding regular emergency training exercises in local communities.
+
+![haiyan1](.src/haiyan1.png)
+![haiyan2](.src/haiyan2.png)
+![haiyan3](.src/haiyan3.png)
+
+
 # 3.8 Predicting and Preparing for Earthquakes
 
 Way of reducing destructive impact:
@@ -308,3 +361,20 @@ Ask questions such as:
 - do the warning systems need to be improved?
 - can buildings in the area be made more hazard-resistant?
 - etc
+
+# Case Study
+## Preparing for Earthquakes in India:
+- Huge challenge for India because:
+  - country where half the land area is prone to damaging earthquakes:
+    - number of its largest cities are located in Zones 4 and 5
+    - north-eastern region of India has a record of earthquakes with a magnitude of 8.0 or more
+    - caused by the movement of the Indo-Australian plate towards the Eurasian plate
+  - vast country:
+    population of around 1.3 billion living at an average density of 400 persons per km^2
+- 2016 Nepal earthquake was a wake up call for its larger and more developed neighbor (India)
+  - National Disaster Management Authority has been set up along with a National Disaster Response Force
+  - challenge is mainly 'seismic retrofitting'
+    - involves modifying existing buildings so that they meet present-day standards of earthquake resistance
+    - schools and hospitals are given a priority, but blocks of apartments are also prioritized
+    - but it still leaves a huge backlog of millions of unsafe homes
+![india](.src/india_earthquake.png)

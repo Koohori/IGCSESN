@@ -84,6 +84,65 @@ Caused by:
 	* demand for hardwood timber
 	* wish to use the land originally covered by trees for totally different purposes
 
+# Case Study
+## Tropical Rainforest in Brazil - Uses and Impacts
+
+![amazon_rain](.src/amazon_rain1.png)
+
+- Brazil has quarter of world's rainforest within its borders
+
+![amazon_rain](.src/amazon_rain2.png)
+
+- Uses being made of the rainforest:
+	- pasture for cattle rearing
+	- arable land for growing biofuels
+	- building land for settlements and roads
+- Selective logging and agro-forestry are more sustainable ways of cutting down timber
+- indigenous groups have:
+	- cut wood to burn as fuel
+	- used timber to build their dwellings
+	- harvested fruits and nuts
+	- used plants for the treatment of illnesses
+	- cleared small areas of forest for food production
+
+![amazon_rain](.src/amazon_rain3.png)
+
+- Impacts
+	- clearance of land by subsistence farmers & indigenous people have little lasting damage because they leave the area to move to another area (shifting cultivation)
+		- allows for the prior exhausted land to regenerate
+	- large scale deforestation has consequences:
+		- loss of biodiversity
+		- climate change
+		- land degradation and erosion
+		- displacement of indigenous people
+- Indigenous people
+	- they have been displaced
+	- addiction to drugs and alcohol has been common and many have died young
+
+![amazon_rain](.src/amazon_rain4.png)
+
+- Soil erosion
+	- as soon as forest cover is cleared, the nutrient cycle is broken
+	- after the cycle is broke, there is little hope anything grows again
+	- even when the soil is protected, it loses fertility
+- River pollution
+	- gold mining causes pollution
+	- also poisons rivers with mercury
+- Local Climate Change
+	- disrupts water cycle
+	- felling of trees reduce evapotranspiration and return of moisture to atmosphere
+	- climate becomes drier
+	- as the cycle of water cooled the area, the local climate becomes hotter
+- Global Warming
+	- tree canopy absorbs carbon dioxide in the atmosphere
+	- deforestation causes enhanced global warming
+- Loss of Biodiversity
+	- global biodiversity ill be much reduced
+	- individual species will become endangered and then possibly extinct
+
+![amazon_rain](.src/amazon_rain5.png)
+
+
 
 # 5.4 Characteristics of Rural Environments
 * Landscape - scattered settlements separated by open spaces - mainly greens paces given over to farming
@@ -97,6 +156,9 @@ Caused by:
 
 # 5.5 Rural Changes in UK
 ### 4 Types of Rural Areas
+
+![rural_areas](.src/four_types_rural.png)
+
 * Urban Fringe:
 	* suburbanization
 		* building of new homes most often in the form of large housing estates
@@ -140,7 +202,6 @@ Strongly influenced by:
 * population growth
 * rural - urban migration
 
-# 5.7 Diversification of Farming and Farms
 ## China
 * more economic growth than any other emerging country
 * economy is largest in the world
@@ -168,7 +229,9 @@ Strongly influenced by:
 	* lack of help with HIV/AIDS
 	* Spread of commercial agriculture
 
-# 5.7 Farm Diversification in the UK
+# 5.7 Diversification of Farming and Farms
+# Case Study
+## Farm Diversification in the UK
 * Farming accounts for 1 per cent of GDP and 1 per cent of employment due to:
 	* mechanization
 	* making farms larger
@@ -218,7 +281,7 @@ Strongly influenced by:
 * physical services such as clean water and sanitation, and social services such as education and healthcare
 * unpolluted environment
 
-#### Sustainable living needs a low ==carbon footprint== and ==ecological footprint==
+#### Sustainable living needs a low carbon footprint and ecological footprint
 
 ## China
 * China needs to :

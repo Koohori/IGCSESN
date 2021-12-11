@@ -93,6 +93,76 @@ Tertiary sector:
 
 Sector shifts - changes in the relative importance of the economic sectors that takes place as countries develop
 
+## Ethiopia - A pre-Industrial Country
+- Located in the sub-Saharan region of Africa:
+  - Ethiopia is ranked 173 out of 186 countries in level of development
+  - one of the poorest and least developed countries in the world
+
+  ![ethiopia1](.src/ethiopia1.png)
+- Picture above shows that Ethiopia's economy is focused on the primary sector accounts for 75 percent of all employment but slightly less than 50 percent of national GDP
+  - shows that agriculture in Ethiopia is mainly subsistence farming
+  - beginning to change due to growth of commercial agriculture taking over land that was once used for subsistence farming
+  - in turn, this makes increasing food shortages in country that has regularly suffered from famines
+  - also influenced people to move to Addis Ababa, the capital city, and to other urban cities in search of work
+- Until now, secondary sector has played a small part but it's changing
+  - processing of agricultural products in addition to making of textiles and leather goods as the country's leading industries
+  - exports are growing
+  - government investing in country's infrastructure:
+    - particularly in improving the road network and supply of energy
+  - foreign investors want to be involved in ethiopia:
+    - affordability of labor is a strong attraction for Transnational Corporations (TNCs) to set up factories in Ethiopia
+  - Over 75 per cent of people live in rural areas
+    - but the number is starting to fall
+    - migration is increasing
+    - cities and towns are few and far between
+      - causes little employment in the tertiary sector
+      - poor, largely rural population has little or no money to spend on urban services
+      - However, as services are more valuable than cheap crops, the small tertiary sector accounts for much of the country's GDP
+  - Ethiopia is beginning to make economic progress
+    - economy is still rooted in the primary sector
+    - shifts improving the quality of life and living standards of some Ethiopians
+    most negative impact is displacement of subsistence farmers by the growth of commercial agriculture
+
+
+## China - A Rapidly Emerging Country
+- Giant country in terms of its area and its population
+- over the last 10 years, its economy has grown very quickly
+- now the largest economy in the world
+- in per capita terms, it is still a lower middle-income country
+- shift from primary to secondary sector drove much of China's recent economic development and prosperity
+  - result of government's decision to become part of the global economy
+  - before that, China was only involved in the communist world
+  - it only traded with what was the Soviet Union and the countries of Eastern Europe
+  - secondary sector now accounts for half the country's GDP but quarter of the labor force
+  - industrial success has been based mainly on the availability of cheap labor and energy
+- agriculture in the primary sector still employs larger number of workers
+  - sector's contribution to GDP is shrinking fast
+  - rural population is being left behind
+  - widening gap between them and urban people in terms of quality of life
+- problems:
+  - pollution produced by the heavy industry and urban traffic
+  - while the economy has opened up, access to internet is still carefully controlled
+
+## The UK - A Post Industrial Country
+- UK was world's first industrial nation
+- lead the industrial revolution
+- fifty years ago:
+  - manufacturing produced 40 percent of country's economic wealth and employed one-third of the workforce
+- Now:
+  - manufacturing produces slightly less than 25 percent of the wealth and employs less than 20 percent of the workforce
+- As result of global shift in manufacturing, country has experienced de-industrialization
+- many of the goods once manufactured in UK are now made in China, India and other LICs
+- Today, UK's economy is very much a service-based economy
+  - tertiary sector is employing 80 percent of UK workers and creates 75 percent of national economic wealth
+- UK farming produces about 60 percent of the country's food supply
+- De-industrializtion created problems:
+  - unemployed people who worked in the secondary sector
+  - large urban areas were laid waste as factories were closed and demolished
+  - industrial towns and cities in the north of the UK had to reinvent and re-image themselves which is expensive and difficult
+
+
+
+
 # 4.5 Informal sector
 
 Informal sector - fifth sector that is not recognized in the official figures produced by governments, also refereed as the 'black economy' because it is unofficial and unregulated
@@ -116,8 +186,31 @@ Examples:
 - prostitution
 - paratransit (arise because of the inadequate official transport in towns and cities in developing countries)
 
-# Case Study - Dhaka, Bangladesh
+# Case Study
+## Dhaka, Bangladesh
+- Megacity has population of 16 million
+- one of the fastest growing cities in the world
+- 25 percent of the capital's population live in crowded slums
+- by far the most densely populated megacity in the world
+- informal activities have some benefits:
+  - provide wide range of cheap goods and services that would otherwise be out of reach of many people
+  - provide means of survival
+- But, informal sector does nothing to break the cycle of poverty in urban areas in developing countries because the earnings are slow
+- Other costs:
+  - no healthcare or unemployment benefits
+  - high exposure to work-related risks
+  - uncertain legal status
+  - discrimination
+- children in economic activity rather than receiving formal education:
+  - estimated that half a million children in the informal sectors
+  - most of them work from dawn to dusk, earning on average equivalent of 50 cents a day to help support their families
+  - jobs range from begging and scavenging to domestic service and paratransit
+  - Dhaka is known as the rickshaw capital of the world
+- Dangerous conditions:
+  - work condition, exposed to hazards such as street crime, violence, drugs, sexual abuse, toxic fumes, etc..
+  - children often suffer extremely poor health and a range of development problems
 
+![dhaka](.src/dhaka.png)
 
 # 4.6 Population and Resources
 
@@ -203,3 +296,59 @@ Today, most countries face an energy gap between energy demand and energy suppli
 - 'hibernate' electronics to save electricity
 
 # Case Studies
+## Energy Resource Management in Qatar
+- enjoys energy security
+- one hundred years ago, it was one of the lowest income states in the Middle East
+- from discovery of oil and natural gas:
+  - it is now the largest exporter of liquefied natural gas (LNG)
+- export of crude oil and LNG accounts for half of the GDP
+- country has the world's highest per-capita income
+
+![qatar1](.src/qatar1.png)
+
+- physical geography and location of Qatar makes it a large consumer of electricity
+- desert climate means it has a short mild, pleasant, winter and long, very hot and humid summer
+- high demand from population of 2 million for AC
+- heavy industry, using electricity for desalinization plants and transport
+- from 2000 to 2012, Qatar's electricity consumption grew from 8 billion to 32.7 billion kilowatt-hours
+- Building solar panels to replace the carbon emissions
+- by 2020, expected to account for around 15 percent of total electric power generation
+
+![qatar2](.src/qatar2.png)
+
+## Energy Resources Management in India
+- annual energy consumption doubled since 2000
+- energy is vital for India's ambitions:
+  - maintain an expanding economy
+  - bring electricity to the large number of people, particularly in rural areas, who remain without it
+  - improve transport
+  - provide the infrastructure needed by expanding population
+
+![india1](.src/india1.png)
+
+- three quarter of Indian energy demand is met by fossil fuels
+  - coals remains most important fossil fuel, accounting over half of the primary energy
+  - it has coal deposits of own but increasingly relies on imports
+  - the growth of the country's economy means they will not move away from fossil fuels
+- hydro power starting to be used
+ - generates 20 percent of country's electricity
+- nuclear generate 5 percent of Electricity
+![india2](.src/india2.png)
+
+
+## Energy Resource Management in Nepal
+![nepal1](.src/nepal1.png)
+- one of the lowest income countries
+- fuel wood was traditional source of energy for heating and cooking
+- country is trying grow but the energy demand is currently low
+- Nepal's government wants to supply electricity to 28 million people but has no oil, coa, or natural gas deposits
+
+![nepal3](.src/nepal3.png)
+
+- uses micro-hydro plants
+  - creating micro-hydro plants across rural Nepal
+  - do not need a dam or reservoir to be build
+  - instead it they divert water from stream or river
+  - over 1000 built so far in 52 districts
+- also trying solar panels but the country's mountains don't allow for long sunshine
+![nepal2](.src/nepal2.png)
