@@ -42,6 +42,8 @@ Main characteristics of desertification:
     - when rain does fall, it is often for very short, intense periods
     - makes it difficult for the soil to capture and store the rain
     - water store is reduced
+
+![causes_deforestation](.src/causes_deforestation1.png)
   - Human Causes:
     - Population growth
       - rapid population increase puts more pressure on the land to grow more food
@@ -49,4 +51,33 @@ Main characteristics of desertification:
       - local people migrate elsewhere in search of food and water
       - location where they settled increases in population which increases the pressure on the environment
     - Overgrazing
-      - too many goats, sheep 
+      - too many goats, sheep and cattle can destroy vegetation
+    - over-cultivation
+      - intensive use of marginal land exhausts the soil and crops will not grow
+    - Deforestation
+      - trees are cut down for fuel, fencing and housing
+      - roots no longer bind to the soil, leading to soil erosion
+
+![causes_deforestation2](.src/causes_deforestation2.png)
+
+# Case Study:
+### Desertification of the Sahel, Africa
+
+- Sahel is a narrow belt of land in Central Africa
+  - borders southern edge of Sahara Desert
+  - semi-arid climate
+  - temperatures are always hot
+  - long dry season from June through January
+  - just enough of rain for grasses to grow
+    - some shrubs and trees
+- some years have less rainfall than others
+  - fewer grasses grow and trees die
+  - landscape becomes much like a desert
+- climate change is one of the causes
+- human activity is also speeding up desertification:
+  - until 1960s, water was plentiful and crops and livestock did well in Sahel
+  - then population increased
+  - more and more trees were used for fuel
+- despite the climate being driver, people tried to grow the same crops and rear the same number of animals
+  - quickly led to over-cultivation and Overgrazing
+  - absence of vegetation meant that no humus was added to the soil

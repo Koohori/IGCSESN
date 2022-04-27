@@ -27,6 +27,7 @@
 * Following Lenin's death, testament was put aside and Stalin, Trotsky, Kamenev, Bukharin and Zinoviev announced they would share power
 
 ## Leadership Contenders
+![stalin](.src/stalin.png)
 * Stalin
 	* born in Georgia
 	* had tough childhood and grew up in poverty
@@ -41,6 +42,9 @@
 	* Lenin admired him for humble origins
 	* made general secretary, boring job but ran the administration of the Communist Party
 	* regarded as political moderate, generally kept a low profile i n meetings
+
+![trotsky](.src/trotsky.png)
+
 * Trotsky
 	* born to a wealthy Jewish farming family in Ukraine
 	* Talented university student
@@ -52,6 +56,9 @@
 	* highly regarded for charisma and inspiration speech, but disliked for personality of arrogance
 	* promoted worldwide revolution
 	* suffered fever attacks frequently
+
+![kamenev](.src/kamenev.png)
+
 * Kamenev
 	* working class upbringing
 	* joined Bolsheviks early in 1903
@@ -61,6 +68,9 @@
 	* opposed Lenin's plans for October Revolution
 	* Played little part in the Civil war
 	* too cautious
+
+![bukharin](.src/bukharin.png)
+
 * Bukharin
 	* family of teachers
 	* exiled as a Bolshevik in Tsarist times
@@ -72,6 +82,9 @@
 	* inexperience
 	* disagreed on Marxism with Lenin
 	* Strong support for NEP, unpopular with many
+
+![zinoviev](.src/zinoviev.png)
+
 * Zinoviev
 	* son of a prosperous farmer
 	* Early Bolshevik in 1903
@@ -132,7 +145,7 @@ Steps:
 	* Trotsky and Stalin stayed quiet and went along with the decision to not publish the testament
 * Defeat of Trotsky
 	* seen as the most likely to win power struggle
-	* Stalin, Kamenev, and Zinoviev formed anti-Trotsky alliance supporting the NEP
+	* Stalin, Kamenev, Bukharin and Zinoviev formed anti-Trotsky alliance supporting the NEP
 	* alliance dominated the party
 	* Trotsky's disagreements with Lenin was highlighted in speeches and articles
 	* Claimed that Trotsky exaggerated his role in Oct Revolution

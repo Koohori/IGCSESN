@@ -122,7 +122,7 @@
 ## Cult of Personality
 * leader built as a god figure
 * referred to as Vozhd 'the big hero'
-* Stalin as political geenius
+* Stalin as political genius
 	* shown Stalin as Lenin's right hand man and planned the revolution together
 * Great Economic Planner
 	* responsible for all the 'successes' of Five Year Plans
